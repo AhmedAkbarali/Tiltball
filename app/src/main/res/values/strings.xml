@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo_TiltBall_delush</string>
+    <string name="setuptitletext">Demo Tilt Ball delush</string>
+    <string name="resultstitletext">Results</string>
+    <string name="paramlabelorderofcontroltext">Order of control</string>
+    <string name="paramlabelgaintext">Gain</string>
+    <string name="paramlabelpathwidthtext">Path width</string>
+    <string name="paramlabelpathtypetext">Path type</string>
+    <string name="paramlabellapcount">Lap Count</string>
+    <string name="paramlabellapstext">Laps = </string>
+    <string name="paramlabellaptimetext">Lap time = </string>
+    <string name="paramlabelwallhitstext">Wall hits = </string>
+    <string name="paramlabelinpathtimetext">In-path time = </string>
+    <string name="button01text">OK</string>
+    <string name="button02text">Setup</string>
+    <string name="button03text">Exit</string>
+
+</resources>

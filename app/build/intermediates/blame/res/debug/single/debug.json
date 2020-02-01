@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ball.png.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\drawable-mdpi\\ball.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ball.png.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\drawable-hdpi\\ball.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinnerstyle.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\layout\\spinnerstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ball.png.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\drawable-ldpi\\ball.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\layout_setup.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\build\\intermediates\\res\\merged\\debug\\layout_results.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Dropbox\\Demo_TiltBall\\app\\src\\main\\res\\layout\\results.xml"
+    }
+]

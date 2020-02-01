@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mack\Desktop\Scott-new\Java\AndroidStudioStuff\Demo_TiltBall\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\mack\Desktop\Scott-new\Java\AndroidStudioStuff\Demo_TiltBall\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5b82eef54b38bf0c939bb21109321671138a396b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mack\Desktop\Scott-new\Java\AndroidStudioStuff\Demo_TiltBall\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c24006172fda86fa98e49ed2112b06179c4ec6fe">
+        <dex dex="C:\Users\mack\Desktop\Scott-new\Java\AndroidStudioStuff\Demo_TiltBall\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_57a9fb1642e843a1eaa05d188c2d2bd38d5df8d6\classes.dex" />
+    </item>
+
+</items>
